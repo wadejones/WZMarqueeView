@@ -13,7 +13,6 @@ s.source           = { :git => "https://github.com/wadejones/WZMarqueeView.git",
 
 
 s.platform     = :ios, '8.0'
-s.swift_version = '2.3'
 s.requires_arc = true
 
 s.source_files = 'WZMarqueeView/*'
